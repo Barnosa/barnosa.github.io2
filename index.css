@@ -1,0 +1,44 @@
+
+body{
+    color: rgb(2, 2, 2);
+    background-color: #b4c518;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: 20px;
+    text-align: center;
+    
+}
+ul{
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    align-items: center;
+    padding: 16px;
+
+}
+a{
+    color:white
+
+}
+a{
+    text-decoration: none;
+}
+img{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 5px solid rgb(188, 188, 219)
+
+}
+.center{
+    text-align: center;
+}
+footer img {
+    width: 60px;
+    height: 60px;
+    
+    
+
+}
+    
+
+
